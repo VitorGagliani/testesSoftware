@@ -2,6 +2,10 @@ package org.example;
 
 import java.util.Scanner;
 
+//Erro humano foi o dev utilizar a formula errada
+//O erro humano fez com que retornasse um valor inválido
+//O sistema apresentou resultado errado
+
 public class Main {
     public static void main(String[] args) {
         int n1 = 6;
