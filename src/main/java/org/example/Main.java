@@ -14,6 +14,7 @@ public class Main {
         System.out.println("Digite o valor subtotal: ");
         subtotal = sc.nextDouble();
 
+
         System.out.println("Digite a distancia: ");
         distancia = sc.nextDouble();
 
